@@ -8,7 +8,7 @@ namespace ex3a_student_grades
 {
     public class GradingService
     {
-        public static string GetLetterGrade(double score)
+        public static string EvaluateGrade(double score)
         {
             if (score >= 90)
                 return "A";

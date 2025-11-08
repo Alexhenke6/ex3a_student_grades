@@ -15,12 +15,10 @@ namespace ex3a_student_grades
             get { return Grades.Average(); }
         }
 
-        public string LetterGrade
-        {
-            get
-            {
-                return GradingService.GetLetterGrade(AverageGrade);
-            }
+        public string LetterGrade 
+        { get
+                { return GradingService.EvaluateGrade(AverageGrade); }
         }
+        
     }
 }
