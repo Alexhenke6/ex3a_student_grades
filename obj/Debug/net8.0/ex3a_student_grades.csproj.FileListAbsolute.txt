@@ -1,0 +1,15 @@
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\bin\Debug\net8.0\ex3a_student_grades.exe
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\bin\Debug\net8.0\ex3a_student_grades.deps.json
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\bin\Debug\net8.0\ex3a_student_grades.runtimeconfig.json
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\bin\Debug\net8.0\ex3a_student_grades.dll
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\bin\Debug\net8.0\ex3a_student_grades.pdb
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\obj\Debug\net8.0\ex3a_student_grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\obj\Debug\net8.0\ex3a_student_grades.AssemblyInfoInputs.cache
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\obj\Debug\net8.0\ex3a_student_grades.AssemblyInfo.cs
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\obj\Debug\net8.0\ex3a_student_grades.csproj.CoreCompileInputs.cache
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\obj\Debug\net8.0\ex3a_student_grades.sourcelink.json
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\obj\Debug\net8.0\ex3a_student_grades.dll
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\obj\Debug\net8.0\refint\ex3a_student_grades.dll
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\obj\Debug\net8.0\ex3a_student_grades.pdb
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\obj\Debug\net8.0\ex3a_student_grades.genruntimeconfig.cache
+C:\Users\alexh\School Projects\1730-Alex-Henke\ex3a_student_grades\obj\Debug\net8.0\ref\ex3a_student_grades.dll
